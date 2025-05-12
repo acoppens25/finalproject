@@ -1,0 +1,2 @@
+SPAdes_on_data_7_and_data_8__Scaffolds_query	casei_fasta_ref	80.8248	413	996
+SPAdes_on_data_7_and_data_8__Scaffolds_query	rhamnosus_fasta_ref	79.8852	425	996

@@ -1,0 +1,15 @@
+Assembly	SPAdes_on_data_7_and_data_8__Scaffolds	SPAdes_on_data_7_and_data_8__Scaffolds_broken
+# contigs (>= 0 bp)	127	-
+# contigs (>= 1000 bp)	34	38
+Total length (>= 0 bp)	3063500	-
+Total length (>= 1000 bp)	3043248	3042848
+# contigs	38	42
+Largest contig	424351	424351
+Total length	3046465	3046065
+GC (%)	46.20	46.20
+N50	181098	181098
+N90	94254	61105
+auN	210090.7	208278.5
+L50	6	6
+L90	15	16
+# N's per 100 kbp	13.13	0.00
